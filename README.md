@@ -8,10 +8,19 @@ OAuth2.0 and OpenID from an information security perspective.
 ## Articles
 [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)  
 [OAuth 2.0](https://oauth.net/2/)  
-[Diagrams And Movies Of All The OAuth 2.0 Flows](https://darutk.medium.com/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85)
+[Diagrams And Movies Of All The OAuth 2.0 Flows](https://darutk.medium.com/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85)  
+[OpenID Connect](https://openid.net/connect/)
+
+## Cheatsheets
+[OAuth to Account takeover](https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover)  
+[OAuth 2.0 Vulnerabilities](https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth-2.0-vulnerabilities)  
+[OAuth by Sakurity](http://sakurity.com/oauth)  
+[OAuth 2.0 Security Cheat Sheet (by Koen Buyens)](https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet)
 
 ## Laboratories / Learning Materials
 [OAuth 2.0 authentication vulnerabilities (PortSwigger)](https://portswigger.net/web-security/oauth)  
+[Damn Vulnerable OAuth 2.0 Applications](https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications)  
+[HackTheBox Oouch machine (retired)](https://app.hackthebox.com/machines/231)  
 [PentesterLab Pro Exercises (filter by "OAuth")](https://pentesterlab.com/exercises)
 
 ## HackerOne Reports
@@ -21,7 +30,6 @@ OAuth2.0 and OpenID from an information security perspective.
 ## Attacking OAuth
 [[video] HackTheBox - Oouch (by IppSec)](https://www.youtube.com/watch?v=EUtqjK27MxQ)  
 [[video] How to Hack OAuth by Aaron Parecki](https://www.youtube.com/watch?v=tbu4CfzP25o)  
-[OAuth to Account takeover](https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover)  
 [Common OAuth issue you can use to take over accounts](https://webstersprodigy.net/2013/05/09/common-oauth-issue-you-can-use-to-take-over-accounts/)  
 [The Most Common OAuth2 Vulnerability](http://homakov.blogspot.com/2012/07/saferweb-most-common-oauth2.html)
 
@@ -37,3 +45,9 @@ OAuth2.0 and OpenID from an information security perspective.
 [Attacking JWT authentication](https://www.sjoerdlangkemper.nl/2016/09/28/attacking-jwt-authentication/)  
 [Practical Approaches for Testing and Breaking JWT Authentication](https://mazinahmed.net/blog/breaking-jwt/)  
 [reddit discussion about "Practical Approaches for Testing and Breaking JWT Authentication"](https://www.reddit.com/r/netsec/comments/dn10q2/practical_approaches_for_testing_and_breaking_jwt/)
+
+## Books
+[Books about OAuth 2.0 (by oauth.net)](https://oauth.net/books/)  
+[Advanced API Security: OAuth 2.0 and Beyond (2nd edition)](https://www.amazon.com/Advanced-API-Security-Definitive-Guide/dp/1484220498)  
+[API Security in Action](https://www.manning.com/books/api-security-in-action)  
+[OAuth 2.0: Getting Started in Web-API Security](https://www.amazon.com/OAuth-2-0-Getting-Security-University/dp/1507800916)
