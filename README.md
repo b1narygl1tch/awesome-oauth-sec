@@ -18,9 +18,12 @@ OAuth2.0 and OpenID from an information security perspective.
 [Top OAuth reports from HackerOne](https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPOAUTH.md)  
 [#317476 Account takeover in Periscope TV (Host header poisoning)](https://hackerone.com/reports/317476)
 
-## Writeups / Hack Tricks
-[HackTheBox - Oouch (by IppSec)](https://www.youtube.com/watch?v=EUtqjK27MxQ)  
-[OAuth to Account takeover](https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover)
+## Attacking OAuth
+[[video] HackTheBox - Oouch (by IppSec)](https://www.youtube.com/watch?v=EUtqjK27MxQ)  
+[[video] How to Hack OAuth by Aaron Parecki](https://www.youtube.com/watch?v=tbu4CfzP25o)  
+[OAuth to Account takeover](https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover)  
+[Common OAuth issue you can use to take over accounts](https://webstersprodigy.net/2013/05/09/common-oauth-issue-you-can-use-to-take-over-accounts/)  
+[The Most Common OAuth2 Vulnerability](http://homakov.blogspot.com/2012/07/saferweb-most-common-oauth2.html)
 
 ## Tools / Applications / Scripts
 [Jwtear](https://github.com/KINGSABRI/jwtear) - A modular command-line tool to parse, create and manipulate JSON Web Token(JWT) tokens for security testing purposes.
