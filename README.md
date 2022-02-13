@@ -9,9 +9,12 @@ OAuth2.0 and OpenID from an information security perspective.
 [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)  
 [OAuth 2.0](https://oauth.net/2/)  
 [Diagrams And Movies Of All The OAuth 2.0 Flows](https://darutk.medium.com/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85)  
+[Which OAuth 2.0 Flow Should I Use?](https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use)  
 [OpenID Connect](https://openid.net/connect/)
 
 ## Cheatsheets
+[OAuth 2.0 Threat Model Pentesting Checklist](https://securityhubs.io/oauth2_threat_model)  
+[Hack3rScr0lls OAuth2.0 attacking mindmap](https://twitter.com/hackerscrolls/status/1269266750467649538)  
 [OAuth to Account takeover](https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover)  
 [OAuth 2.0 Vulnerabilities](https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth-2.0-vulnerabilities)  
 [OAuth by Sakurity](http://sakurity.com/oauth)  
@@ -31,7 +34,13 @@ OAuth2.0 and OpenID from an information security perspective.
 [[video] HackTheBox - Oouch (by IppSec)](https://www.youtube.com/watch?v=EUtqjK27MxQ)  
 [[video] How to Hack OAuth by Aaron Parecki](https://www.youtube.com/watch?v=tbu4CfzP25o)  
 [Common OAuth issue you can use to take over accounts](https://webstersprodigy.net/2013/05/09/common-oauth-issue-you-can-use-to-take-over-accounts/)  
-[The Most Common OAuth2 Vulnerability](http://homakov.blogspot.com/2012/07/saferweb-most-common-oauth2.html)
+[The Most Common OAuth2 Vulnerability](http://homakov.blogspot.com/2012/07/saferweb-most-common-oauth2.html)  
+[Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
+
+## Securing OAuth
+[Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/secure/attack-protection/state-parameters)
+[How to prevent OAuth authentication vulnerabilities](https://portswigger.net/web-security/oauth/preventing)  
+[OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)
 
 ## Tools / Applications / Scripts
 [Jwtear](https://github.com/KINGSABRI/jwtear) - A modular command-line tool to parse, create and manipulate JSON Web Token(JWT) tokens for security testing purposes.
