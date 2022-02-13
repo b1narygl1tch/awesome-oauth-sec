@@ -30,7 +30,8 @@ OAuth2.0 and OpenID from an information security perspective.
 
 ## Playgrounds
 [OAUTH.TOOLS](https://oauth.tools/)  
-[Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
+[Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)  
+[OAuth.com Playground](https://www.oauth.com/playground/)
 
 ## JWT (JSON Web Token) Security
 [Attacking JWT authentication](https://www.sjoerdlangkemper.nl/2016/09/28/attacking-jwt-authentication/)  
