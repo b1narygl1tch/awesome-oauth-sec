@@ -40,7 +40,8 @@ OAuth2.0 and OpenID from an information security perspective.
 ## Securing OAuth
 [Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/secure/attack-protection/state-parameters)  
 [How to prevent OAuth authentication vulnerabilities](https://portswigger.net/web-security/oauth/preventing)  
-[OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)
+[OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)  
+[API Security Checklist (OAuth)](https://github.com/shieldfy/API-Security-Checklist#oauth)
 
 ## Tools / Applications / Scripts
 [Jwtear](https://github.com/KINGSABRI/jwtear) - A modular command-line tool to parse, create and manipulate JSON Web Token(JWT) tokens for security testing purposes.
