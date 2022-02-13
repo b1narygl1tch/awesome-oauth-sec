@@ -1,4 +1,4 @@
-# Awesome OAuth2.0 and OpenID Connect
+# Awesome OAuth2.0 and OpenID Connect Security
 OAuth2.0 and OpenID from an information security perspective.
 
 ## Specifications
