@@ -38,7 +38,7 @@ OAuth2.0 and OpenID from an information security perspective.
 [Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
 
 ## Securing OAuth
-[Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/secure/attack-protection/state-parameters)
+[Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/secure/attack-protection/state-parameters)  
 [How to prevent OAuth authentication vulnerabilities](https://portswigger.net/web-security/oauth/preventing)  
 [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)
 
