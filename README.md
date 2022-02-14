@@ -13,7 +13,7 @@ OAuth2.0 and OpenID from an information security perspective.
 
 ## OpenID Connect
 [OpenID Connect](https://openid.net/connect/)  
-[Understanding ID Token](https://darutk.medium.com/understanding-id-token-5f83f50fa02e)
+[Understanding ID Token](https://darutk.medium.com/understanding-id-token-5f83f50fa02e)  
 [Inclusion Relation among JWS, JWE, JWT, ID Token and Access Token](https://darutk.medium.com/inclusion-relation-among-jws-jwe-jwt-id-token-and-access-token-a99312fc1ad4)
 
 ## Cheatsheets
