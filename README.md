@@ -9,8 +9,11 @@ OAuth2.0 and OpenID from an information security perspective.
 [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)  
 [OAuth 2.0](https://oauth.net/2/)  
 [Diagrams And Movies Of All The OAuth 2.0 Flows](https://darutk.medium.com/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85)  
-[Which OAuth 2.0 Flow Should I Use?](https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use)  
-[OpenID Connect](https://openid.net/connect/)
+[Which OAuth 2.0 Flow Should I Use?](https://auth0.com/docs/get-started/authentication-and-authorization-flow/which-oauth-2-0-flow-should-i-use)
+
+## OpenID Connect
+[OpenID Connect](https://openid.net/connect/)  
+[Understanding ID Token](https://darutk.medium.com/understanding-id-token-5f83f50fa02e)
 
 ## Cheatsheets
 [OAuth 2.0 Threat Model Pentesting Checklist](https://securityhubs.io/oauth2_threat_model)  
