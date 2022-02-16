@@ -25,7 +25,8 @@ OAuth2.0 and OpenID from an information security perspective.
 [OAuth 2.0 Vulnerabilities](https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth-2.0-vulnerabilities)  
 [OpenID Connect Vulnerabilities](https://0xn3va.gitbook.io/cheat-sheets/web-application/oauth-2.0-vulnerabilities/openid-connect)  
 [OAuth by Sakurity](http://sakurity.com/oauth)  
-[OAuth 2.0 Security Cheat Sheet (by Koen Buyens)](https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet)
+[OAuth 2.0 Security Cheat Sheet (by Koen Buyens)](https://github.com/koenbuyens/oauth-2.0-security-cheat-sheet)  
+[OAuth to Account takeover](https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover)
 
 ## Laboratories / Learning Materials
 [OAuth 2.0 authentication vulnerabilities (PortSwigger)](https://portswigger.net/web-security/oauth)  
