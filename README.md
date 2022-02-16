@@ -38,6 +38,9 @@ OAuth2.0 and OpenID from an information security perspective.
 [Top OAuth reports from HackerOne](https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPOAUTH.md)  
 [#317476 Account takeover in Periscope TV (Host header poisoning)](https://hackerone.com/reports/317476)
 
+## Bug Bounty Writeups
+[Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html)
+
 ## Attacking OAuth
 [[video] HackTheBox - Oouch (by IppSec)](https://www.youtube.com/watch?v=EUtqjK27MxQ)  
 [[video] How to Hack OAuth by Aaron Parecki](https://www.youtube.com/watch?v=tbu4CfzP25o)  
