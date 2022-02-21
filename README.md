@@ -32,6 +32,7 @@ OAuth2.0 and OpenID from an information security perspective.
 [OAuth 2.0 authentication vulnerabilities (PortSwigger)](https://portswigger.net/web-security/oauth)  
 [Damn Vulnerable OAuth 2.0 Applications](https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications)  
 [HackTheBox Oouch machine (retired)](https://app.hackthebox.com/machines/231)  
+[Spring Security OAuth2 Remote Command Execution Vulnerability (CVE-2016-4977)](https://github.com/vulhub/vulhub/tree/f8f0268746f22ec1437a8aee67f7e7ba1bfba86f/spring/CVE-2016-4977)  
 [PentesterLab Pro Exercises (filter by "OAuth")](https://pentesterlab.com/exercises)
 
 ## HackerOne Reports
