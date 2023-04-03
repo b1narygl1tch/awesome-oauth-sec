@@ -47,6 +47,7 @@ OAuth2.0 and OpenID from an information security perspective.
 ## Attacking OAuth
 [[video] HackTheBox - Oouch (by IppSec)](https://www.youtube.com/watch?v=EUtqjK27MxQ)  
 [[video] How to Hack OAuth by Aaron Parecki](https://www.youtube.com/watch?v=tbu4CfzP25o)  
+[Egor Homakov's OAuth blogposts](http://homakov.blogspot.com/search?q=oauth)  
 [Common OAuth issue you can use to take over accounts](https://webstersprodigy.net/2013/05/09/common-oauth-issue-you-can-use-to-take-over-accounts/)  
 [The Most Common OAuth2 Vulnerability](http://homakov.blogspot.com/2012/07/saferweb-most-common-oauth2.html)  
 [Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)  
