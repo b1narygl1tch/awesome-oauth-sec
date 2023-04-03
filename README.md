@@ -48,7 +48,8 @@ OAuth2.0 and OpenID from an information security perspective.
 [[video] How to Hack OAuth by Aaron Parecki](https://www.youtube.com/watch?v=tbu4CfzP25o)  
 [Common OAuth issue you can use to take over accounts](https://webstersprodigy.net/2013/05/09/common-oauth-issue-you-can-use-to-take-over-accounts/)  
 [The Most Common OAuth2 Vulnerability](http://homakov.blogspot.com/2012/07/saferweb-most-common-oauth2.html)  
-[Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
+[Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)  
+[Account hijacking using "dirty dancing" in sign-in OAuth-flows](https://labs.detectify.com/2022/07/06/account-hijacking-using-dirty-dancing-in-sign-in-oauth-flows/)
 
 ## Securing OAuth
 [Prevent Attacks and Redirect Users with OAuth 2.0 State Parameters](https://auth0.com/docs/secure/attack-protection/state-parameters)  
