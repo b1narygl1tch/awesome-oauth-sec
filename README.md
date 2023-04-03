@@ -44,8 +44,11 @@ OAuth2.0 and OpenID from an information security perspective.
 [Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html)  
 [Traveling with OAuth - Account Takeover on Booking.com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com)
 
-## Attacking OAuth
+## CTF Writeups
 [[video] HackTheBox - Oouch (by IppSec)](https://www.youtube.com/watch?v=EUtqjK27MxQ)  
+[Hacktivity'20 Notes Surfer task](https://github.com/gr455/ctf-writeups/blob/master/hacktivity20/notes_surfer.md)
+
+## Attacking OAuth
 [[video] How to Hack OAuth by Aaron Parecki](https://www.youtube.com/watch?v=tbu4CfzP25o)  
 [Egor Homakov's OAuth blogposts](http://homakov.blogspot.com/search?q=oauth)  
 [Common OAuth issue you can use to take over accounts](https://webstersprodigy.net/2013/05/09/common-oauth-issue-you-can-use-to-take-over-accounts/)  
