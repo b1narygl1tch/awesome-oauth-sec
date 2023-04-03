@@ -40,7 +40,7 @@ OAuth2.0 and OpenID from an information security perspective.
 [#317476 Account takeover in Periscope TV (Host header poisoning)](https://hackerone.com/reports/317476)
 
 ## Bug Bounty Writeups
-[Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html)
+[Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html)  
 [Traveling with OAuth - Account Takeover on Booking.com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com)
 
 ## Attacking OAuth
