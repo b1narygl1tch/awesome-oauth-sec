@@ -42,7 +42,8 @@ OAuth2.0 and OpenID from an information security perspective.
 
 ## Bug Bounty Writeups
 [Bypassing GitHub's OAuth flow](https://blog.teddykatz.com/2019/11/05/github-oauth-bypass.html)  
-[Traveling with OAuth - Account Takeover on Booking.com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com)
+[Traveling with OAuth - Account Takeover on Booking.com](https://salt.security/blog/traveling-with-oauth-account-takeover-on-booking-com)  
+[Multiple bugs chained to takeover Facebook Accounts which uses Gmail](https://ysamm.com/?p=763)
 
 ## CTF Writeups
 [[video] HackTheBox - Oouch (by IppSec)](https://www.youtube.com/watch?v=EUtqjK27MxQ)  
